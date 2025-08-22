@@ -42,5 +42,7 @@ The aim is to turn raw drugstore sales and customer data into *actionable insigh
 ---
 
 ##  About Me
-
+- 🌐 [https://www.linkedin.com/in/govhar-orujova-64333b369/]  
+- 🐙 [https://github.com/GovharOrujova]  
+- ✉ [govharorucova@outlook.com]  
 ---
